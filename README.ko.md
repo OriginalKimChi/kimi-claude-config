@@ -21,7 +21,7 @@ uv tool install kimi-cli
 kimi
 
 # 3) Kimi MCP 서버 (GitHub 포크에서 설치)
-npm i -g github:soojibdev/kimi-code-mcp
+npm i -g github:OriginalKimChi/kimi-code-mcp
 # 또는 원본:
 # npm i -g github:howardpen9/kimi-code-mcp
 ```
@@ -62,7 +62,7 @@ brew install node uv
 
 # (2) Kimi CLI + MCP 서버
 uv tool install kimi-cli
-npm i -g github:soojibdev/kimi-code-mcp
+npm i -g github:OriginalKimChi/kimi-code-mcp
 
 # (3) Moonshot API 키 로그인 (컴퓨터마다 필수)
 kimi

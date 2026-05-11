@@ -21,7 +21,7 @@ uv tool install kimi-cli
 kimi
 
 # Kimi MCP server (from GitHub fork)
-npm i -g github:soojibdev/kimi-code-mcp
+npm i -g github:OriginalKimChi/kimi-code-mcp
 # or upstream:
 # npm i -g github:howardpen9/kimi-code-mcp
 ```
